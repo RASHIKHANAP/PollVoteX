@@ -1,4 +1,4 @@
-# Django Voting Web Application
+# $$\textcolor{lime}{\text{Django Voting Web Application 🗳️}}$$
 
 ## Overview
 
