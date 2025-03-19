@@ -1,5 +1,5 @@
 # 🔘🔘🔘🌕🟢 
-# $$\huge \textbf{\textcolor{lime}{Django Voting Web Application 🗳️}}$$
+# $$\huge{\textcolor{lime}{Django Voting Web Application 🗳️}}$$
 
 
 
