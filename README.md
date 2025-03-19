@@ -7,7 +7,7 @@
 
 This is a simple Django-based web application that allows users to vote on various categories. Users can view available categories, vote for their favorite items in each category, and see the voting results in real-time.
 
-<img width="938" alt="image" src="https://github.com/SuryaPratap2542/Voting-Site/assets/89827931/29ead5fe-f86e-458f-9c31-8e3ec80b3476">
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/3abc9f72-dcc5-47b2-af3e-4d9b7a9dc9de">
 
 
 ## Features
@@ -83,12 +83,12 @@ This is a simple Django-based web application that allows users to vote on vario
 
 1. Signup Page:  New user Create a new Account.
 
-   <img width="938" alt="image" src="https://github.com/SuryaPratap2542/Voting-Site/assets/89827931/27745e63-5ef9-4353-a1cf-24f42e9c2fd5">
+   <img width="938" alt="image" src="https://github.com/user-attachments/assets/36328875-2049-4e92-8d2c-82ea5b4b3733">
 
  
  2. Signin Page:  Existing user login here.
 
-    <img width="933" alt="image" src="https://github.com/SuryaPratap2542/Voting-Site/assets/89827931/f8282e17-86ef-4393-9bb4-7cb68214d9af">
+    <img width="933" alt="image" src="https://github.com/user-attachments/assets/41c6d9f4-6b6c-4d82-a644-1edbcf6599d9">
 
 
 3.  Category Page:  Browse categories and select one to vote.
