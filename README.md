@@ -1,13 +1,16 @@
-# Django Voting Web Application
+# 🔘🔘🔘🌕🟢 
+# $$\huge \textbf{\textcolor{lime}{Django Voting Web Application 🗳️}}$$
 
-## Overview
+
+
+## Overview 📖
 
 This is a simple Django-based web application that allows users to vote on various categories. Users can view available categories, vote for their favorite items in each category, and see the voting results in real-time.
 
-<img width="938" alt="image" src="https://github.com/SuryaPratap2542/Voting-Site/assets/89827931/29ead5fe-f86e-458f-9c31-8e3ec80b3476">
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/3abc9f72-dcc5-47b2-af3e-4d9b7a9dc9de">
 
 
-## Features
+## Features ✨
 
 - User-friendly interface for voting on categories.
 - Real-time updates of voting results.
@@ -15,14 +18,14 @@ This is a simple Django-based web application that allows users to vote on vario
 - SQLite database for data storage.
 - Responsive design for mobile and desktop.
 
-## Getting Started
+## Getting Started 🚀
 
-### Prerequisites
+### Prerequisites 📋
 
 - Python (3.6 or higher)
 - Django (3.0 or higher)
 
-### Installation
+### Installation 🛠️
 
 1. Clone this repository to your local machine.
 
@@ -69,23 +72,23 @@ This is a simple Django-based web application that allows users to vote on vario
 
 8. Open your web browser and access the application at `http://127.0.0.1:8000`.
 
-## Usage
+## Usage 📚
 
 1. Browse the available categories on the homepage.
 2. Click on a category to view its items and vote for your favorite.
 3. Check real-time voting results on the results page.
 4. Use the Django admin panel to manage categories and items.
 
-## Screenshots
+## Screenshots 📸
 
 1. Signup Page:  New user Create a new Account.
 
-   <img width="938" alt="image" src="https://github.com/SuryaPratap2542/Voting-Site/assets/89827931/27745e63-5ef9-4353-a1cf-24f42e9c2fd5">
+   <img width="938" alt="image" src="https://github.com/user-attachments/assets/36328875-2049-4e92-8d2c-82ea5b4b3733">
 
  
  2. Signin Page:  Existing user login here.
 
-    <img width="933" alt="image" src="https://github.com/SuryaPratap2542/Voting-Site/assets/89827931/f8282e17-86ef-4393-9bb4-7cb68214d9af">
+    <img width="933" alt="image" src="https://github.com/user-attachments/assets/41c6d9f4-6b6c-4d82-a644-1edbcf6599d9">
 
 
 3.  Category Page:  Browse categories and select one to vote.
@@ -105,7 +108,7 @@ This is a simple Django-based web application that allows users to vote on vario
    <img width="931" alt="image" src="https://github.com/SuryaPratap2542/Voting-Site/assets/89827931/bb04acf1-dcf7-49fd-bbb3-5c815a06453f">
 
 
-## Contributing
+## Contributing 🤝
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
@@ -115,10 +118,10 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch: `git push origin feature-name`
 5. Create a pull request with a clear description of your changes.
 
-## License
+## License 📜
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## Acknowledgments 🙏
 
 - Thanks to the Django community for their excellent documentation and resources.
